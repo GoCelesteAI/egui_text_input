@@ -1,0 +1,6 @@
+[package]
+name = "greeting-form"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
